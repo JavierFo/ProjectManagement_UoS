@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProjectManagement</string>
+    <string name="project_title_label">Project</string>
+    <string name="project_manager_label">Manager</string>
+    <string name="project_teamMembers_label">Team Members</string>
+    <string name="project_status_label">Status</string>
+    <string name="project_deadline_label">Deadline</string>
+    <string name="project_tasks_label">Tasks</string>
+    <string name="new_project">New Project</string>
+    <string name="filter_project_deadline">Filter by Deadline</string>
+    <string name="filter_project_status">Filter by Status</string>
+
+    <string name="new_project_title">Project Title:</string>
+    <string name="new_project_deadline">Project Deadline:</string>
+    <string name="new_project_members">Team Members:</string>
+    <string name="new_project_tasks">Tasks:</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_skills_space_with">Enter Skills (Space with , )</string>
+    <string name="repeat_password_create">Repeat Password</string>
+    <string name="enter_password_create">Enter Password</string>
+    <string name="enter_email_create">Enter Email</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="current_projects">Current Projects</string>
+    <string name="pending_projects">Pending Projects</string>
+    <string name="profile">Profile</string>
+    <string name="select_image">Select Image</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="enter_skills">Enter Skills</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_new_project"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/new_project"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/filter_deadline"
+        android:title="@string/filter_project_deadline"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/filter_status"
+        android:title="@string/filter_project_status"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/view_profile"
+        android:title="@string/profile"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/logout_application"
+        android:title="@string/logout"
+        app:showAsAction="never"/>
+</menu>
